@@ -1,0 +1,10 @@
+__pycache__/
+.history/
+models/
+data/*.json
+data/*.jsonl
+samples/*.json
+samples/*.jsonl
+*.log
+full_evaluation_report.json
+evaluation_report.json
