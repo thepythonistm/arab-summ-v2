@@ -8,3 +8,4 @@ samples/*.jsonl
 *.log
 full_evaluation_report.json
 evaluation_report.json
+EASC/
